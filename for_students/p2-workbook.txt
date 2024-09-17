@@ -1,0 +1,54 @@
+Wisc ID: xpalseita
+GitHub ID: x-pal
+Points = 92
+Grade = 5 out of 5
+
+[X] correct P2 Canvas Assignment submission [none]: 
+[X] clear explanations in p2-workbook.txt [none]: 
+[X] correct P2G Canvas Assignment submission on time [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: 
+[X] highlight list looks OK [final-grtown]: 
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: star wars theme
+[X] cool theme bonus (need explanation) [final-grtown]: I based the theme off the planet tatooine in star wars.
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: Control tower
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: Water Tower
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: Marketplace stand in the middle
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: Square base house
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: Circular house
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: sand pillar building
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: white cone tower
+[X] has building, natural, vehicle (need explanation) [final-grtown]: buildings, trees, and ships
+[X] loaded model (need explanation) [final-grtown]: loaded deathstar in 
+[ ] shader: identifiable and not trivial (need explanation) [final-grtown]: 
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: circular motion for the x-wings
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: attacking behavior for the rebel spaceship(attacking death star)
+[X] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: sporadic movement for drone
+[X] at least one object is rideable / followable [final-grtown]: 
+[ ] behavior that is not simple (need explanation) [final-grtown]: 
+[X] articulated figure (need explanation) [final-grtown]: drone rotors
+[ ] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]: 
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: Water tower uses an environmental map to help give the metallic reflection of the scene.
+[X] advanced thing 1: points above and beyond (need explanation) [final-grtown]: I was one point off from a 100 on this assignment and wanted to check something off. Thanks for the great semester.
+[ ] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 2: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 4: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
+
+Hope you enjoyed my rendition of Tatooine!!!
+
+Imported Obj Files:
+(all free use)
+X-wing
+Death star
+Other Spaceship
